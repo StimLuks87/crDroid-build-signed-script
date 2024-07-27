@@ -4,9 +4,9 @@
 read -p "Enter country code 'US' (C): " country
 read -p "Enter state or province name 'California' (ST): " state
 read -p "Enter locality 'Los Angeles' (L): " locality
-read -p "Enter organization name 'Rising' (O): " organization
-read -p "Enter organizational unit 'Rising' (OU): " organizational_unit
-read -p "Enter common name 'rising' (CN): " common_name
+read -p "Enter organization name 'Android' (O): " organization
+read -p "Enter organizational unit 'Android' (OU): " organizational_unit
+read -p "Enter common name 'Android' (CN): " common_name
 read -p "Enter email address 'android@android.com' (emailAddress): " email
 
 # Construct the subject line
