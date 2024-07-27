@@ -3,7 +3,7 @@
 # Prompt the user for each part of the subject line
 read -p "Enter country code 'US' (C): " country
 read -p "Enter state or province name 'California' (ST): " state
-read -p "Enter locality 'Los Angeles' (L): " locality
+read -p "Enter locality 'Mountain' (L): " locality
 read -p "Enter organization name 'Android' (O): " organization
 read -p "Enter organizational unit 'Android' (OU): " organizational_unit
 read -p "Enter common name 'Android' (CN): " common_name
